@@ -1,0 +1,2660 @@
+2019-03-12_20-45-25/[INF]/Starting parsing of midi file. This could take a while.
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/'Message' object has no attribute 'note'
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/'Message' object has no attribute 'note'
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/'Message' object has no attribute 'note'
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/'Message' object has no attribute 'note'
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/'Message' object has no attribute 'note'
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/'Message' object has no attribute 'note'
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/can only concatenate list (not "str") to list
+2019-03-12_20-45-25/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-25/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/can only concatenate list (not "str") to list
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/Skipping over a message because there was no note value /e/can only concatenate list (not "str") to list
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-25/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-25/[DBG]/New output is :P:^
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:^:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-25/[DBG]/Resetting outputs
+2019-03-12_20-45-25/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-25/[DBG]/New output is :P
+2019-03-12_20-45-25/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-25/[DBG]/New output is :P:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :P:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :P:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :P:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :P:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :P:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-26/[DBG]/New output is :q
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-26/[DBG]/New output is :q
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :P:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :P:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :P:i
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :P:i
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :i
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :i:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :i
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :i:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :D:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :D:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-26/[DBG]/New output is :g
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :g:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-26/[DBG]/New output is :g
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :g:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-26/[DBG]/New output is :D:q
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-26/[DBG]/New output is :D:q
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :P:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :P:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :P:i
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-26/[DBG]/New output is :P
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :P:i
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :i
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :i:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-26/[DBG]/New output is :i
+2019-03-12_20-45-26/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-26/[DBG]/New output is :i:Y
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :D:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :D:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-26/[DBG]/New output is :g
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :g:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-26/[DBG]/New output is :g
+2019-03-12_20-45-26/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-26/[DBG]/New output is :g:E
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-26/[DBG]/New output is :D:q
+2019-03-12_20-45-26/[DBG]/Resetting outputs
+2019-03-12_20-45-26/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-26/[DBG]/New output is :D
+2019-03-12_20-45-26/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-26/[DBG]/New output is :D:q
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-27/[DBG]/New output is :P:Y
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-27/[DBG]/New output is :P:Y
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Parsed note 56 as W
+2019-03-12_20-45-27/[DBG]/New output is :P:W
+2019-03-12_20-45-27/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-27/[DBG]/New output is :P:W:E
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-27/[DBG]/New output is :i
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-27/[DBG]/New output is :i
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-27/[DBG]/New output is :D
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 56 as W
+2019-03-12_20-45-27/[DBG]/New output is :W
+2019-03-12_20-45-27/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-27/[DBG]/New output is :W:E
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-27/[DBG]/New output is :D
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-27/[DBG]/New output is :g
+2019-03-12_20-45-27/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-27/[DBG]/New output is :g:"
+2019-03-12_20-45-27/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-27/[DBG]/New output is :g:":(
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-27/[DBG]/New output is :g
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-27/[DBG]/New output is :"
+2019-03-12_20-45-27/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-27/[DBG]/New output is :":(
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-27/[DBG]/New output is :i
+2019-03-12_20-45-27/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-27/[DBG]/New output is :i:4
+2019-03-12_20-45-27/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-27/[DBG]/New output is :i:4:q
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-27/[DBG]/New output is :i
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 66 as I
+2019-03-12_20-45-27/[DBG]/New output is :I
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 66 as I
+2019-03-12_20-45-27/[DBG]/New output is :I
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-27/[DBG]/New output is :o
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-27/[DBG]/New output is :o
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 68 as O
+2019-03-12_20-45-27/[DBG]/New output is :O
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 68 as O
+2019-03-12_20-45-27/[DBG]/New output is :O
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-27/[DBG]/New output is :p
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-27/[DBG]/New output is :p
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-27/[DBG]/New output is :P
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 71 as a
+2019-03-12_20-45-27/[DBG]/New output is :a
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 71 as a
+2019-03-12_20-45-27/[DBG]/New output is :a
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-27/[DBG]/New output is :s
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-27/[DBG]/New output is :s
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 73 as S
+2019-03-12_20-45-27/[DBG]/New output is :S
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 73 as S
+2019-03-12_20-45-27/[DBG]/New output is :S
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-27/[DBG]/New output is :d
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-27/[DBG]/New output is :d
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-27/[DBG]/New output is :D
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-27/[DBG]/New output is :D
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 76 as f
+2019-03-12_20-45-27/[DBG]/New output is :f
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 76 as f
+2019-03-12_20-45-27/[DBG]/New output is :f
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-27/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-27/[DBG]/New output is :g
+2019-03-12_20-45-27/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-28/[DBG]/New output is :g
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-28/[DBG]/New output is :G
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-28/[DBG]/New output is :G
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 80 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-28/[DBG]/New output is :4
+2019-03-12_20-45-28/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-28/[DBG]/New output is :4:q
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 80 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-28/[DBG]/New output is :Y
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 83 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 83 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 85 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 85 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 87 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 87 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 88 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 88 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-28/[DBG]/New output is :Y
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-28/[DBG]/New output is :i
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-28/[DBG]/New output is :i
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-28/[DBG]/New output is :y
+2019-03-12_20-45-28/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-28/[DBG]/New output is :y:i
+2019-03-12_20-45-28/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-28/[DBG]/New output is :y:i:P
+2019-03-12_20-45-28/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-28/[DBG]/New output is :y:i:P:^
+2019-03-12_20-45-28/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-28/[DBG]/New output is :y:i:P:^:E
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-28/[DBG]/New output is :^
+2019-03-12_20-45-28/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-28/[DBG]/New output is :^:E
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-28/[DBG]/New output is :6
+2019-03-12_20-45-28/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-28/[DBG]/New output is :6:e
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-28/[DBG]/New output is :y
+2019-03-12_20-45-28/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-28/[DBG]/New output is :y:i
+2019-03-12_20-45-28/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-28/[DBG]/New output is :y:i:P
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-28/[DBG]/New output is :6
+2019-03-12_20-45-28/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-28/[DBG]/New output is :6:e
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-28/[DBG]/New output is :P
+2019-03-12_20-45-28/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-28/[DBG]/New output is :P:d
+2019-03-12_20-45-28/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-28/[DBG]/New output is :P:d:g
+2019-03-12_20-45-28/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-28/[DBG]/New output is :P:d:g:5
+2019-03-12_20-45-28/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-28/[DBG]/New output is :P:d:g:5:w
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-28/[DBG]/New output is :5
+2019-03-12_20-45-28/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-28/[DBG]/New output is :5:w
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-28/[DBG]/New output is :4
+2019-03-12_20-45-28/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-28/[DBG]/New output is :4:q
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-28/[DBG]/New output is :P
+2019-03-12_20-45-28/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-28/[DBG]/New output is :P:d
+2019-03-12_20-45-28/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-28/[DBG]/New output is :P:d:g
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-28/[DBG]/New output is :4
+2019-03-12_20-45-28/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-28/[DBG]/New output is :4:q
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-28/[DBG]/New output is :o
+2019-03-12_20-45-28/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-28/[DBG]/New output is :o:P
+2019-03-12_20-45-28/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-28/[DBG]/New output is :o:P:D
+2019-03-12_20-45-28/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-28/[DBG]/New output is :o:P:D:"
+2019-03-12_20-45-28/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-28/[DBG]/New output is :o:P:D:":(
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-28/[DBG]/New output is :o
+2019-03-12_20-45-28/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-28/[DBG]/New output is :o:P
+2019-03-12_20-45-28/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-28/[DBG]/New output is :o:P:D
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-28/[DBG]/New output is :d
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-28/[DBG]/New output is :d
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-28/[DBG]/New output is :s
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-28/[DBG]/New output is :"
+2019-03-12_20-45-28/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-28/[DBG]/New output is :":(
+2019-03-12_20-45-28/[DBG]/Resetting outputs
+2019-03-12_20-45-28/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-29/[DBG]/New output is :s
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-29/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-29/[DBG]/New output is :d:g:2
+2019-03-12_20-45-29/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-29/[DBG]/New output is :d:g:2:9
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-29/[DBG]/New output is :2
+2019-03-12_20-45-29/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-29/[DBG]/New output is :2:9
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-29/[DBG]/New output is :1
+2019-03-12_20-45-29/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-29/[DBG]/New output is :1:8
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-29/[DBG]/New output is :1
+2019-03-12_20-45-29/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-29/[DBG]/New output is :1:8
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-29/[DBG]/New output is :P
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :P:d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-29/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-29/[DBG]/New output is :P
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :P:d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-29/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-29/[DBG]/New output is :o
+2019-03-12_20-45-29/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-29/[DBG]/New output is :o:P
+2019-03-12_20-45-29/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-29/[DBG]/New output is :o:P:D
+2019-03-12_20-45-29/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-29/[DBG]/New output is :o:P:D:"
+2019-03-12_20-45-29/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-29/[DBG]/New output is :o:P:D:":(
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-29/[DBG]/New output is :o
+2019-03-12_20-45-29/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-29/[DBG]/New output is :o:P
+2019-03-12_20-45-29/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-29/[DBG]/New output is :o:P:D
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :d
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :d
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-29/[DBG]/New output is :s
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-29/[DBG]/New output is :"
+2019-03-12_20-45-29/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-29/[DBG]/New output is :":(
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-29/[DBG]/New output is :s
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-29/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-29/[DBG]/New output is :d:g:2
+2019-03-12_20-45-29/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-29/[DBG]/New output is :d:g:2:9
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-29/[DBG]/New output is :2
+2019-03-12_20-45-29/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-29/[DBG]/New output is :2:9
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-29/[DBG]/New output is :1
+2019-03-12_20-45-29/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-29/[DBG]/New output is :1:8
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-29/[DBG]/New output is :1
+2019-03-12_20-45-29/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-29/[DBG]/New output is :1:8
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-29/[DBG]/New output is :P
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :P:d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-29/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-29/[DBG]/New output is :P
+2019-03-12_20-45-29/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-29/[DBG]/New output is :P:d
+2019-03-12_20-45-29/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g
+2019-03-12_20-45-29/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-29/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-29/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-29/[DBG]/New output is :s
+2019-03-12_20-45-29/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-29/[DBG]/New output is :s:D
+2019-03-12_20-45-29/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-29/[DBG]/New output is :s:D:%
+2019-03-12_20-45-29/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-29/[DBG]/New output is :s:D:%:8
+2019-03-12_20-45-29/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-29/[DBG]/New output is :s:D:%:8:(
+2019-03-12_20-45-29/[DBG]/Resetting outputs
+2019-03-12_20-45-29/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-29/[DBG]/New output is :s
+2019-03-12_20-45-29/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-29/[DBG]/New output is :s:D
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-30/[DBG]/New output is :d
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-30/[DBG]/New output is :d
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-30/[DBG]/New output is :D
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-30/[DBG]/New output is :%
+2019-03-12_20-45-30/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-30/[DBG]/New output is :%:8
+2019-03-12_20-45-30/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-30/[DBG]/New output is :%:8:(
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-30/[DBG]/New output is :D
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-30/[DBG]/New output is :p
+2019-03-12_20-45-30/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-30/[DBG]/New output is :p:s
+2019-03-12_20-45-30/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-30/[DBG]/New output is :p:s:6
+2019-03-12_20-45-30/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-30/[DBG]/New output is :p:s:6:8
+2019-03-12_20-45-30/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-30/[DBG]/New output is :p:s:6:8:q
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-30/[DBG]/New output is :6
+2019-03-12_20-45-30/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-30/[DBG]/New output is :6:8
+2019-03-12_20-45-30/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-30/[DBG]/New output is :6:8:q
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-30/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-30/[DBG]/New output is :4
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-30/[DBG]/New output is :p
+2019-03-12_20-45-30/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-30/[DBG]/New output is :p:s
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-30/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-30/[DBG]/New output is :4
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-30/[DBG]/New output is :t
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :t:i
+2019-03-12_20-45-30/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-30/[DBG]/New output is :t:i:4
+2019-03-12_20-45-30/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-30/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-30/[DBG]/New output is :t
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :t:i
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-30/[DBG]/New output is :t
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :t:i
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-30/[DBG]/New output is :t
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :t:i
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-30/[DBG]/New output is :t
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :t:i
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-30/[DBG]/New output is :4
+2019-03-12_20-45-30/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-30/[DBG]/New output is :4:q
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-30/[DBG]/New output is :t
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :t:i
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-30/[DBG]/New output is :y
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :y:i
+2019-03-12_20-45-30/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-30/[DBG]/New output is :y:i:P
+2019-03-12_20-45-30/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-30/[DBG]/New output is :y:i:P:^
+2019-03-12_20-45-30/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-30/[DBG]/New output is :y:i:P:^:E
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-30/[DBG]/New output is :^
+2019-03-12_20-45-30/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-30/[DBG]/New output is :^:E
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-30/[DBG]/New output is :6
+2019-03-12_20-45-30/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-30/[DBG]/New output is :6:e
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-30/[DBG]/New output is :y
+2019-03-12_20-45-30/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-30/[DBG]/New output is :y:i
+2019-03-12_20-45-30/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-30/[DBG]/New output is :y:i:P
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-30/[DBG]/New output is :6
+2019-03-12_20-45-30/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-30/[DBG]/New output is :6:e
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-30/[DBG]/New output is :P
+2019-03-12_20-45-30/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-30/[DBG]/New output is :P:d
+2019-03-12_20-45-30/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-30/[DBG]/New output is :P:d:g
+2019-03-12_20-45-30/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-30/[DBG]/New output is :P:d:g:5
+2019-03-12_20-45-30/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-30/[DBG]/New output is :P:d:g:5:w
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-30/[DBG]/New output is :5
+2019-03-12_20-45-30/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-30/[DBG]/New output is :5:w
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-30/[DBG]/New output is :4
+2019-03-12_20-45-30/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-30/[DBG]/New output is :4:q
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-30/[DBG]/New output is :P
+2019-03-12_20-45-30/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-30/[DBG]/New output is :P:d
+2019-03-12_20-45-30/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-30/[DBG]/New output is :P:d:g
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-30/[DBG]/New output is :4
+2019-03-12_20-45-30/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-30/[DBG]/New output is :4:q
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-30/[DBG]/New output is :o
+2019-03-12_20-45-30/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-30/[DBG]/New output is :o:P
+2019-03-12_20-45-30/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-30/[DBG]/New output is :o:P:D
+2019-03-12_20-45-30/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-30/[DBG]/New output is :o:P:D:"
+2019-03-12_20-45-30/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-30/[DBG]/New output is :o:P:D:":(
+2019-03-12_20-45-30/[DBG]/Resetting outputs
+2019-03-12_20-45-30/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-31/[DBG]/New output is :o
+2019-03-12_20-45-31/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-31/[DBG]/New output is :o:P
+2019-03-12_20-45-31/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-31/[DBG]/New output is :o:P:D
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-31/[DBG]/New output is :s
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-31/[DBG]/New output is :"
+2019-03-12_20-45-31/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-31/[DBG]/New output is :":(
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-31/[DBG]/New output is :s
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-31/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-31/[DBG]/New output is :d:g:2
+2019-03-12_20-45-31/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-31/[DBG]/New output is :d:g:2:9
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-31/[DBG]/New output is :2
+2019-03-12_20-45-31/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-31/[DBG]/New output is :2:9
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-31/[DBG]/New output is :1
+2019-03-12_20-45-31/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-31/[DBG]/New output is :1:8
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-31/[DBG]/New output is :1
+2019-03-12_20-45-31/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-31/[DBG]/New output is :1:8
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-31/[DBG]/New output is :P
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :P:d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-31/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-31/[DBG]/New output is :P
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :P:d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-31/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-31/[DBG]/New output is :o
+2019-03-12_20-45-31/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-31/[DBG]/New output is :o:P
+2019-03-12_20-45-31/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-31/[DBG]/New output is :o:P:D
+2019-03-12_20-45-31/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-31/[DBG]/New output is :o:P:D:"
+2019-03-12_20-45-31/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-31/[DBG]/New output is :o:P:D:":(
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-31/[DBG]/New output is :o
+2019-03-12_20-45-31/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-31/[DBG]/New output is :o:P
+2019-03-12_20-45-31/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-31/[DBG]/New output is :o:P:D
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-31/[DBG]/New output is :s
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-31/[DBG]/New output is :"
+2019-03-12_20-45-31/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-31/[DBG]/New output is :":(
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-31/[DBG]/New output is :s
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-31/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-31/[DBG]/New output is :d:g:2
+2019-03-12_20-45-31/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-31/[DBG]/New output is :d:g:2:9
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-31/[DBG]/New output is :2
+2019-03-12_20-45-31/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-31/[DBG]/New output is :2:9
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-31/[DBG]/New output is :1
+2019-03-12_20-45-31/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-31/[DBG]/New output is :1:8
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-31/[DBG]/New output is :1
+2019-03-12_20-45-31/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-31/[DBG]/New output is :1:8
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-31/[DBG]/New output is :P
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :P:d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-31/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-31/[DBG]/New output is :P
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :P:d
+2019-03-12_20-45-31/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g
+2019-03-12_20-45-31/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-31/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-31/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-31/[DBG]/New output is :s
+2019-03-12_20-45-31/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-31/[DBG]/New output is :s:D
+2019-03-12_20-45-31/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-31/[DBG]/New output is :s:D:%
+2019-03-12_20-45-31/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-31/[DBG]/New output is :s:D:%:8
+2019-03-12_20-45-31/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-31/[DBG]/New output is :s:D:%:8:(
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-31/[DBG]/New output is :s
+2019-03-12_20-45-31/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-31/[DBG]/New output is :s:D
+2019-03-12_20-45-31/[DBG]/Resetting outputs
+2019-03-12_20-45-31/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-31/[DBG]/New output is :d
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-32/[DBG]/New output is :d
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-32/[DBG]/New output is :D
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-32/[DBG]/New output is :%
+2019-03-12_20-45-32/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-32/[DBG]/New output is :%:8
+2019-03-12_20-45-32/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-32/[DBG]/New output is :%:8:(
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-32/[DBG]/New output is :D
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-32/[DBG]/New output is :s
+2019-03-12_20-45-32/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-32/[DBG]/New output is :s:p
+2019-03-12_20-45-32/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-32/[DBG]/New output is :s:p:6
+2019-03-12_20-45-32/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-32/[DBG]/New output is :s:p:6:8
+2019-03-12_20-45-32/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-32/[DBG]/New output is :s:p:6:8:q
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-32/[DBG]/New output is :s
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-32/[DBG]/New output is :d
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-32/[DBG]/New output is :d
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-32/[DBG]/New output is :D
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-32/[DBG]/New output is :p
+2019-03-12_20-45-32/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-32/[DBG]/New output is :p:6
+2019-03-12_20-45-32/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-32/[DBG]/New output is :p:6:8
+2019-03-12_20-45-32/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-32/[DBG]/New output is :p:6:8:q
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-32/[DBG]/New output is :D
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-32/[DBG]/New output is :g
+2019-03-12_20-45-32/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-32/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-32/[DBG]/New output is :g:4
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-32/[DBG]/New output is :g
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-32/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-32/[DBG]/New output is :4
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-32/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-32/[DBG]/New output is :i
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-32/[DBG]/New output is :i
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 87 because it was out of range
+2019-03-12_20-45-32/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-32/[DBG]/New output is :i
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 87 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-32/[DBG]/New output is :i
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-32/[DBG]/New output is :o
+2019-03-12_20-45-32/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-32/[DBG]/New output is :o:Y
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-32/[DBG]/New output is :Y
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-32/[DBG]/New output is :y
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-32/[DBG]/New output is :o
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-32/[DBG]/New output is :o
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-32/[DBG]/New output is :y
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-32/[DBG]/New output is :o
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-32/[DBG]/New output is :D
+2019-03-12_20-45-32/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-32/[DBG]/New output is :D:t
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-32/[DBG]/New output is :D
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-32/[DBG]/New output is :d
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-32/[DBG]/New output is :t
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-32/[DBG]/New output is :d
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-32/[DBG]/New output is :s
+2019-03-12_20-45-32/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-32/[DBG]/New output is :s:E
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-32/[DBG]/New output is :s
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-32/[DBG]/New output is :P
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-32/[DBG]/New output is :E
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-32/[DBG]/New output is :P
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-32/[DBG]/New output is :P
+2019-03-12_20-45-32/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-32/[DBG]/New output is :P:e
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-32/[DBG]/New output is :P
+2019-03-12_20-45-32/[DBG]/Resetting outputs
+2019-03-12_20-45-32/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-33/[DBG]/New output is :s
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-33/[DBG]/New output is :s
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-33/[DBG]/New output is :d
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-33/[DBG]/New output is :e
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-33/[DBG]/New output is :d
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-33/[DBG]/New output is :s
+2019-03-12_20-45-33/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-33/[DBG]/New output is :s:w
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-33/[DBG]/New output is :s
+2019-03-12_20-45-33/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-33/[DBG]/New output is :s:w
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-33/[DBG]/New output is :p
+2019-03-12_20-45-33/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-33/[DBG]/New output is :p:q
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-33/[DBG]/New output is :q
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-33/[DBG]/New output is :(
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-33/[DBG]/New output is :p
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-33/[DBG]/New output is :(
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-33/[DBG]/New output is :i
+2019-03-12_20-45-33/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-33/[DBG]/New output is :i:9
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-33/[DBG]/New output is :9
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-33/[DBG]/New output is :8
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-33/[DBG]/New output is :i
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-33/[DBG]/New output is :8
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-33/[DBG]/New output is :o
+2019-03-12_20-45-33/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-33/[DBG]/New output is :o:"
+2019-03-12_20-45-33/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-33/[DBG]/New output is :o:":(
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-33/[DBG]/New output is :"
+2019-03-12_20-45-33/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-33/[DBG]/New output is :":(
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-33/[DBG]/New output is :2
+2019-03-12_20-45-33/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-33/[DBG]/New output is :2:9
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-33/[DBG]/New output is :o
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-33/[DBG]/New output is :o
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-33/[DBG]/New output is :2
+2019-03-12_20-45-33/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-33/[DBG]/New output is :2:9
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-33/[DBG]/New output is :o
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-33/[DBG]/New output is :D
+2019-03-12_20-45-33/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-33/[DBG]/New output is :D:1
+2019-03-12_20-45-33/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-33/[DBG]/New output is :D:1:8
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-33/[DBG]/New output is :D
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-33/[DBG]/New output is :d
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-33/[DBG]/New output is :1
+2019-03-12_20-45-33/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-33/[DBG]/New output is :1:8
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-33/[DBG]/New output is :d
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-33/[DBG]/New output is :s
+2019-03-12_20-45-33/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-33/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-33/[DBG]/New output is :s:^
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-33/[DBG]/New output is :s
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-33/[DBG]/New output is :P
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-33/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-33/[DBG]/New output is :^
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-33/[DBG]/New output is :P
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 68 as O
+2019-03-12_20-45-33/[DBG]/New output is :O
+2019-03-12_20-45-33/[DBG]/Parsed note 73 as S
+2019-03-12_20-45-33/[DBG]/New output is :O:S
+2019-03-12_20-45-33/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-33/[DBG]/New output is :O:S:g
+2019-03-12_20-45-33/[DBG]/Parsed note 37 as !
+2019-03-12_20-45-33/[DBG]/New output is :O:S:g:!
+2019-03-12_20-45-33/[DBG]/Parsed note 49 as *
+2019-03-12_20-45-33/[DBG]/New output is :O:S:g:!:*
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 68 as O
+2019-03-12_20-45-33/[DBG]/New output is :O
+2019-03-12_20-45-33/[DBG]/Parsed note 73 as S
+2019-03-12_20-45-33/[DBG]/New output is :O:S
+2019-03-12_20-45-33/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-33/[DBG]/New output is :O:S:g
+2019-03-12_20-45-33/[DBG]/Parsed note 37 as !
+2019-03-12_20-45-33/[DBG]/New output is :O:S:g:!
+2019-03-12_20-45-33/[DBG]/Parsed note 49 as *
+2019-03-12_20-45-33/[DBG]/New output is :O:S:g:!:*
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-33/[DBG]/New output is :i
+2019-03-12_20-45-33/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-33/[DBG]/New output is :i:p
+2019-03-12_20-45-33/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-33/[DBG]/New output is :i:p:s
+2019-03-12_20-45-33/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-33/[DBG]/New output is :i:p:s:4
+2019-03-12_20-45-33/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-33/[DBG]/New output is :i:p:s:4:q
+2019-03-12_20-45-33/[DBG]/Resetting outputs
+2019-03-12_20-45-33/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-33/[DBG]/New output is :i
+2019-03-12_20-45-34/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-34/[DBG]/New output is :i:p
+2019-03-12_20-45-34/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-34/[DBG]/New output is :i:p:s
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 101 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 101 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 99 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 99 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 98 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 98 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 96 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-34/[DBG]/New output is :4
+2019-03-12_20-45-34/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-34/[DBG]/New output is :4:q
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 96 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 94 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-34/[DBG]/New output is :g
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 94 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 93 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-34/[DBG]/New output is :g
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 93 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 91 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-34/[DBG]/New output is :g
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 91 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-34/[DBG]/New output is :g
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-34/[DBG]/New output is :D
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-34/[DBG]/New output is :D
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-34/[DBG]/New output is :d
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-34/[DBG]/New output is :d
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 79 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 87 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-34/[DBG]/New output is :s
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 87 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-34/[DBG]/New output is :s
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-34/[DBG]/New output is :P
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-34/[DBG]/New output is :P
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-34/[DBG]/New output is :p
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-34/[DBG]/New output is :p
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 86 because it was out of range
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-34/[DBG]/New output is :o
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-34/[DBG]/New output is :o
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-34/[DBG]/New output is :i
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-34/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-34/[DBG]/New output is :i
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-34/[DBG]/New output is :p
+2019-03-12_20-45-34/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-34/[DBG]/New output is :p:s
+2019-03-12_20-45-34/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-34/[DBG]/New output is :p:s:g
+2019-03-12_20-45-34/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-34/[DBG]/New output is :p:s:g:4
+2019-03-12_20-45-34/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-34/[DBG]/New output is :p:s:g:4:q
+2019-03-12_20-45-34/[DBG]/Resetting outputs
+2019-03-12_20-45-34/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-34/[DBG]/New output is :p
+2019-03-12_20-45-34/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-34/[DBG]/New output is :p:s
+2019-03-12_20-45-34/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-35/[DBG]/New output is :p:s:g
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-35/[DBG]/New output is :p
+2019-03-12_20-45-35/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-35/[DBG]/New output is :p:s
+2019-03-12_20-45-35/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-35/[DBG]/New output is :p:s:g
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-35/[DBG]/New output is :4
+2019-03-12_20-45-35/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-35/[DBG]/New output is :4:q
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-35/[DBG]/New output is :p
+2019-03-12_20-45-35/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-35/[DBG]/New output is :p:s
+2019-03-12_20-45-35/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-35/[DBG]/New output is :p:s:g
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-35/[DBG]/New output is :P
+2019-03-12_20-45-35/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-35/[DBG]/New output is :P:^
+2019-03-12_20-45-35/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-35/[DBG]/New output is :P:^:E
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-35/[DBG]/New output is :P
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-35/[DBG]/New output is :^
+2019-03-12_20-45-35/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-35/[DBG]/New output is :^:E
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 68 as O
+2019-03-12_20-45-35/[DBG]/New output is :O
+2019-03-12_20-45-35/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-35/[DBG]/New output is :O:%
+2019-03-12_20-45-35/[DBG]/Parsed note 56 as W
+2019-03-12_20-45-35/[DBG]/New output is :O:%:W
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 68 as O
+2019-03-12_20-45-35/[DBG]/New output is :O
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[WRN]/Skipped note with value 80 because it was out of range
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-35/[DBG]/New output is :%
+2019-03-12_20-45-35/[DBG]/Parsed note 56 as W
+2019-03-12_20-45-35/[DBG]/New output is :%:W
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[WRN]/Skipped note with value 80 because it was out of range
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 66 as I
+2019-03-12_20-45-35/[DBG]/New output is :I
+2019-03-12_20-45-35/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-35/[DBG]/New output is :I:$
+2019-03-12_20-45-35/[DBG]/Parsed note 54 as Q
+2019-03-12_20-45-35/[DBG]/New output is :I:$:Q
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 66 as I
+2019-03-12_20-45-35/[DBG]/New output is :I
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-35/[DBG]/New output is :G
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-35/[DBG]/New output is :$
+2019-03-12_20-45-35/[DBG]/Parsed note 54 as Q
+2019-03-12_20-45-35/[DBG]/New output is :$:Q
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-35/[DBG]/New output is :G
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-35/[DBG]/New output is :i
+2019-03-12_20-45-35/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-35/[DBG]/New output is :i:4
+2019-03-12_20-45-35/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-35/[DBG]/New output is :i:4:q
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-35/[DBG]/New output is :i
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-35/[DBG]/New output is :g
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-35/[DBG]/New output is :4
+2019-03-12_20-45-35/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-35/[DBG]/New output is :4:q
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-35/[DBG]/New output is :g
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-35/[DBG]/New output is :Y
+2019-03-12_20-45-35/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-35/[DBG]/New output is :Y:"
+2019-03-12_20-45-35/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-35/[DBG]/New output is :Y:":(
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-35/[DBG]/New output is :Y
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-35/[DBG]/New output is :D
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-35/[DBG]/New output is :"
+2019-03-12_20-45-35/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-35/[DBG]/New output is :":(
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-35/[DBG]/New output is :D
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 61 as T
+2019-03-12_20-45-35/[DBG]/New output is :T
+2019-03-12_20-45-35/[DBG]/Parsed note 37 as !
+2019-03-12_20-45-35/[DBG]/New output is :T:!
+2019-03-12_20-45-35/[DBG]/Parsed note 49 as *
+2019-03-12_20-45-35/[DBG]/New output is :T:!:*
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 61 as T
+2019-03-12_20-45-35/[DBG]/New output is :T
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 73 as S
+2019-03-12_20-45-35/[DBG]/New output is :S
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 37 as !
+2019-03-12_20-45-35/[DBG]/New output is :!
+2019-03-12_20-45-35/[DBG]/Parsed note 49 as *
+2019-03-12_20-45-35/[DBG]/New output is :!:*
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 73 as S
+2019-03-12_20-45-35/[DBG]/New output is :S
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-35/[DBG]/New output is :t
+2019-03-12_20-45-35/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-35/[DBG]/New output is :t:1
+2019-03-12_20-45-35/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-35/[DBG]/New output is :t:1:8
+2019-03-12_20-45-35/[DBG]/Resetting outputs
+2019-03-12_20-45-35/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-36/[DBG]/New output is :t
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-36/[DBG]/New output is :1
+2019-03-12_20-45-36/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-36/[DBG]/New output is :1:8
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-36/[DBG]/New output is :E
+2019-03-12_20-45-36/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-36/[DBG]/New output is :E:^
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-36/[DBG]/New output is :E
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-36/[DBG]/New output is :P
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-36/[DBG]/New output is :^
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-36/[DBG]/New output is :P
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-36/[DBG]/New output is :p
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :p:s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :p:s:g
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :p:s:g:4
+2019-03-12_20-45-36/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-36/[DBG]/New output is :p:s:g:4:q
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-36/[DBG]/New output is :4:q
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-36/[DBG]/New output is :p
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :p:s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :p:s:g
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 101 because it was out of range
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[WRN]/Skipped note with value 101 because it was out of range
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :s:g
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :s:g:4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :s:g
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :s:g:4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :s:g
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :s:g:4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :s:g
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :s:g:4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :s:g
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :s:g:4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-36/[DBG]/New output is :s
+2019-03-12_20-45-36/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-36/[DBG]/New output is :s:g
+2019-03-12_20-45-36/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-36/[DBG]/New output is :s:g:4
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-36/[DBG]/New output is :E
+2019-03-12_20-45-36/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-36/[DBG]/New output is :E:Y
+2019-03-12_20-45-36/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-36/[DBG]/New output is :E:Y:o
+2019-03-12_20-45-36/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-36/[DBG]/New output is :E:Y:o:5
+2019-03-12_20-45-36/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-36/[DBG]/New output is :E:Y:o:5:w
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-36/[DBG]/New output is :5
+2019-03-12_20-45-36/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-36/[DBG]/New output is :5:w
+2019-03-12_20-45-36/[DBG]/Resetting outputs
+2019-03-12_20-45-36/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-37/[DBG]/New output is :E
+2019-03-12_20-45-37/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-37/[DBG]/New output is :E:Y
+2019-03-12_20-45-37/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-37/[DBG]/New output is :E:Y:o
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-37/[DBG]/New output is :E
+2019-03-12_20-45-37/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-37/[DBG]/New output is :E:Y
+2019-03-12_20-45-37/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-37/[DBG]/New output is :E:Y:o
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-37/[DBG]/New output is :E
+2019-03-12_20-45-37/[DBG]/Parsed note 63 as Y
+2019-03-12_20-45-37/[DBG]/New output is :E:Y
+2019-03-12_20-45-37/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-37/[DBG]/New output is :E:Y:o
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-37/[DBG]/New output is :o
+2019-03-12_20-45-37/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-37/[DBG]/New output is :o:P
+2019-03-12_20-45-37/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-37/[DBG]/New output is :o:P:D
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :o:P:D:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :o:P:D:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-37/[DBG]/New output is :o
+2019-03-12_20-45-37/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-37/[DBG]/New output is :o:P
+2019-03-12_20-45-37/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-37/[DBG]/New output is :o:P:D
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :i
+2019-03-12_20-45-37/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-37/[DBG]/New output is :i:P
+2019-03-12_20-45-37/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-37/[DBG]/New output is :i:P:d
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :i
+2019-03-12_20-45-37/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-37/[DBG]/New output is :i:P
+2019-03-12_20-45-37/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-37/[DBG]/New output is :i:P:d
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :i
+2019-03-12_20-45-37/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-37/[DBG]/New output is :i:p
+2019-03-12_20-45-37/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-37/[DBG]/New output is :i:p:s
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :i:p:s:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :i:p:s:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :i
+2019-03-12_20-45-37/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-37/[DBG]/New output is :i:p
+2019-03-12_20-45-37/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-37/[DBG]/New output is :i:p:s
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :i:p:s:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :i:p:s:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-37/[DBG]/New output is :t
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :t:i
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-37/[DBG]/New output is :t
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :t:i
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-37/[DBG]/New output is :t
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :t:i
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-37/[DBG]/New output is :t
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :t:i
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-37/[DBG]/New output is :t
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :t:i
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-37/[DBG]/New output is :t
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :t:i
+2019-03-12_20-45-37/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4
+2019-03-12_20-45-37/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-37/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-37/[DBG]/Resetting outputs
+2019-03-12_20-45-37/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-37/[DBG]/New output is :y
+2019-03-12_20-45-37/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-37/[DBG]/New output is :y:i
+2019-03-12_20-45-37/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-37/[DBG]/New output is :y:i:P
+2019-03-12_20-45-37/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-37/[DBG]/New output is :y:i:P:^
+2019-03-12_20-45-37/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-37/[DBG]/New output is :y:i:P:^:E
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-38/[DBG]/New output is :^
+2019-03-12_20-45-38/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-38/[DBG]/New output is :^:E
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-38/[DBG]/New output is :6
+2019-03-12_20-45-38/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-38/[DBG]/New output is :6:e
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-38/[DBG]/New output is :y
+2019-03-12_20-45-38/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-38/[DBG]/New output is :y:i
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :y:i:P
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-38/[DBG]/New output is :6
+2019-03-12_20-45-38/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-38/[DBG]/New output is :6:e
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :P
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :P:d
+2019-03-12_20-45-38/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g
+2019-03-12_20-45-38/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g:5
+2019-03-12_20-45-38/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g:5:w
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-38/[DBG]/New output is :5
+2019-03-12_20-45-38/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-38/[DBG]/New output is :5:w
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-38/[DBG]/New output is :4
+2019-03-12_20-45-38/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-38/[DBG]/New output is :4:q
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :P
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :P:d
+2019-03-12_20-45-38/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-38/[DBG]/New output is :4
+2019-03-12_20-45-38/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-38/[DBG]/New output is :4:q
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-38/[DBG]/New output is :o
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :o:P
+2019-03-12_20-45-38/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-38/[DBG]/New output is :o:P:D
+2019-03-12_20-45-38/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-38/[DBG]/New output is :o:P:D:"
+2019-03-12_20-45-38/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-38/[DBG]/New output is :o:P:D:":(
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-38/[DBG]/New output is :o
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :o:P
+2019-03-12_20-45-38/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-38/[DBG]/New output is :o:P:D
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :d
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :d
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-38/[DBG]/New output is :s
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-38/[DBG]/New output is :"
+2019-03-12_20-45-38/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-38/[DBG]/New output is :":(
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-38/[DBG]/New output is :s
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :d
+2019-03-12_20-45-38/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-38/[DBG]/New output is :d:g
+2019-03-12_20-45-38/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-38/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-38/[DBG]/New output is :d:g:2
+2019-03-12_20-45-38/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-38/[DBG]/New output is :d:g:2:9
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-38/[DBG]/New output is :2
+2019-03-12_20-45-38/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-38/[DBG]/New output is :2:9
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-38/[DBG]/New output is :1
+2019-03-12_20-45-38/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-38/[DBG]/New output is :1:8
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :d
+2019-03-12_20-45-38/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-38/[DBG]/New output is :d:g
+2019-03-12_20-45-38/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-38/[DBG]/New output is :1
+2019-03-12_20-45-38/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-38/[DBG]/New output is :1:8
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :P
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :P:d
+2019-03-12_20-45-38/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g
+2019-03-12_20-45-38/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-38/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :P
+2019-03-12_20-45-38/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-38/[DBG]/New output is :P:d
+2019-03-12_20-45-38/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g
+2019-03-12_20-45-38/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-38/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-38/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-38/[DBG]/Resetting outputs
+2019-03-12_20-45-38/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-38/[DBG]/New output is :o
+2019-03-12_20-45-38/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-38/[DBG]/New output is :o:P
+2019-03-12_20-45-38/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-38/[DBG]/New output is :o:P:D
+2019-03-12_20-45-38/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-38/[DBG]/New output is :o:P:D:"
+2019-03-12_20-45-38/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-38/[DBG]/New output is :o:P:D:":(
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-39/[DBG]/New output is :o
+2019-03-12_20-45-39/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-39/[DBG]/New output is :o:P
+2019-03-12_20-45-39/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-39/[DBG]/New output is :o:P:D
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :d
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :d
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-39/[DBG]/New output is :s
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-39/[DBG]/New output is :"
+2019-03-12_20-45-39/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-39/[DBG]/New output is :":(
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-39/[DBG]/New output is :s
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :d
+2019-03-12_20-45-39/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-39/[DBG]/New output is :d:g
+2019-03-12_20-45-39/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-39/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-39/[DBG]/New output is :d:g:2
+2019-03-12_20-45-39/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-39/[DBG]/New output is :d:g:2:9
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-39/[DBG]/New output is :2
+2019-03-12_20-45-39/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-39/[DBG]/New output is :2:9
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-39/[DBG]/New output is :1
+2019-03-12_20-45-39/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-39/[DBG]/New output is :1:8
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :d
+2019-03-12_20-45-39/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-39/[DBG]/New output is :d:g
+2019-03-12_20-45-39/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-39/[DBG]/New output is :1
+2019-03-12_20-45-39/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-39/[DBG]/New output is :1:8
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-39/[DBG]/New output is :P
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :P:d
+2019-03-12_20-45-39/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-39/[DBG]/New output is :P:d:g
+2019-03-12_20-45-39/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-39/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-39/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-39/[DBG]/New output is :P
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :P:d
+2019-03-12_20-45-39/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-39/[DBG]/New output is :P:d:g
+2019-03-12_20-45-39/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-39/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-39/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-39/[DBG]/New output is :s
+2019-03-12_20-45-39/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-39/[DBG]/New output is :s:D
+2019-03-12_20-45-39/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-39/[DBG]/New output is :s:D:%
+2019-03-12_20-45-39/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-39/[DBG]/New output is :s:D:%:8
+2019-03-12_20-45-39/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-39/[DBG]/New output is :s:D:%:8:(
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-39/[DBG]/New output is :s
+2019-03-12_20-45-39/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-39/[DBG]/New output is :s:D
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :d
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-39/[DBG]/New output is :d
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-39/[DBG]/New output is :D
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 44 as %
+2019-03-12_20-45-39/[DBG]/New output is :%
+2019-03-12_20-45-39/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-39/[DBG]/New output is :%:8
+2019-03-12_20-45-39/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-39/[DBG]/New output is :%:8:(
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-39/[DBG]/New output is :D
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-39/[DBG]/New output is :p
+2019-03-12_20-45-39/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-39/[DBG]/New output is :p:s
+2019-03-12_20-45-39/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-39/[DBG]/New output is :p:s:6
+2019-03-12_20-45-39/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-39/[DBG]/New output is :p:s:6:8
+2019-03-12_20-45-39/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-39/[DBG]/New output is :p:s:6:8:q
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-39/[DBG]/New output is :6
+2019-03-12_20-45-39/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-39/[DBG]/New output is :6:8
+2019-03-12_20-45-39/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-39/[DBG]/New output is :6:8:q
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-39/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-39/[DBG]/New output is :4
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 69 as p
+2019-03-12_20-45-39/[DBG]/New output is :p
+2019-03-12_20-45-39/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-39/[DBG]/New output is :p:s
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-39/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-39/[DBG]/New output is :4
+2019-03-12_20-45-39/[DBG]/Resetting outputs
+2019-03-12_20-45-39/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-39/[DBG]/New output is :t
+2019-03-12_20-45-39/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-39/[DBG]/New output is :t:i
+2019-03-12_20-45-39/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-39/[DBG]/New output is :t:i:4
+2019-03-12_20-45-39/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-39/[DBG]/New output is :t:i:4:q
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-40/[DBG]/New output is :t
+2019-03-12_20-45-40/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-40/[DBG]/New output is :t:i
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-40/[DBG]/New output is :t
+2019-03-12_20-45-40/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-40/[DBG]/New output is :t:i
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-40/[DBG]/New output is :t
+2019-03-12_20-45-40/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-40/[DBG]/New output is :t:i
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-40/[DBG]/New output is :t
+2019-03-12_20-45-40/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-40/[DBG]/New output is :t:i
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-40/[DBG]/New output is :4
+2019-03-12_20-45-40/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-40/[DBG]/New output is :4:q
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 60 as t
+2019-03-12_20-45-40/[DBG]/New output is :t
+2019-03-12_20-45-40/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-40/[DBG]/New output is :t:i
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-40/[DBG]/New output is :y
+2019-03-12_20-45-40/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-40/[DBG]/New output is :y:i
+2019-03-12_20-45-40/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-40/[DBG]/New output is :y:i:P
+2019-03-12_20-45-40/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-40/[DBG]/New output is :y:i:P:^
+2019-03-12_20-45-40/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-40/[DBG]/New output is :y:i:P:^:E
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-40/[DBG]/New output is :^
+2019-03-12_20-45-40/[DBG]/Parsed note 58 as E
+2019-03-12_20-45-40/[DBG]/New output is :^:E
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-40/[DBG]/New output is :6
+2019-03-12_20-45-40/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-40/[DBG]/New output is :6:e
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 62 as y
+2019-03-12_20-45-40/[DBG]/New output is :y
+2019-03-12_20-45-40/[DBG]/Parsed note 65 as i
+2019-03-12_20-45-40/[DBG]/New output is :y:i
+2019-03-12_20-45-40/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-40/[DBG]/New output is :y:i:P
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 45 as 6
+2019-03-12_20-45-40/[DBG]/New output is :6
+2019-03-12_20-45-40/[DBG]/Parsed note 57 as e
+2019-03-12_20-45-40/[DBG]/New output is :6:e
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-40/[DBG]/New output is :P
+2019-03-12_20-45-40/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-40/[DBG]/New output is :P:d
+2019-03-12_20-45-40/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-40/[DBG]/New output is :P:d:g
+2019-03-12_20-45-40/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-40/[DBG]/New output is :P:d:g:5
+2019-03-12_20-45-40/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-40/[DBG]/New output is :P:d:g:5:w
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 43 as 5
+2019-03-12_20-45-40/[DBG]/New output is :5
+2019-03-12_20-45-40/[DBG]/Parsed note 55 as w
+2019-03-12_20-45-40/[DBG]/New output is :5:w
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-40/[DBG]/New output is :4
+2019-03-12_20-45-40/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-40/[DBG]/New output is :4:q
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-40/[DBG]/New output is :P
+2019-03-12_20-45-40/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-40/[DBG]/New output is :P:d
+2019-03-12_20-45-40/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-40/[DBG]/New output is :P:d:g
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-40/[DBG]/New output is :4
+2019-03-12_20-45-40/[DBG]/Parsed note 53 as q
+2019-03-12_20-45-40/[DBG]/New output is :4:q
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-40/[DBG]/New output is :o
+2019-03-12_20-45-40/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-40/[DBG]/New output is :o:P
+2019-03-12_20-45-40/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-40/[DBG]/New output is :o:P:D
+2019-03-12_20-45-40/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-40/[DBG]/New output is :o:P:D:"
+2019-03-12_20-45-40/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-40/[DBG]/New output is :o:P:D:":(
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 67 as o
+2019-03-12_20-45-40/[DBG]/New output is :o
+2019-03-12_20-45-40/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-40/[DBG]/New output is :o:P
+2019-03-12_20-45-40/[DBG]/Parsed note 75 as D
+2019-03-12_20-45-40/[DBG]/New output is :o:P:D
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-40/[DBG]/New output is :d
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-40/[DBG]/New output is :d
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-40/[DBG]/New output is :s
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 39 as "
+2019-03-12_20-45-40/[DBG]/New output is :"
+2019-03-12_20-45-40/[DBG]/Parsed note 51 as (
+2019-03-12_20-45-40/[DBG]/New output is :":(
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 72 as s
+2019-03-12_20-45-40/[DBG]/New output is :s
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-40/[DBG]/New output is :d
+2019-03-12_20-45-40/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-40/[DBG]/New output is :d:g
+2019-03-12_20-45-40/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-40/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-40/[DBG]/New output is :d:g:2
+2019-03-12_20-45-40/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-40/[DBG]/New output is :d:g:2:9
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 38 as 2
+2019-03-12_20-45-40/[DBG]/New output is :2
+2019-03-12_20-45-40/[DBG]/Parsed note 50 as 9
+2019-03-12_20-45-40/[DBG]/New output is :2:9
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-40/[DBG]/New output is :1
+2019-03-12_20-45-40/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-40/[DBG]/New output is :1:8
+2019-03-12_20-45-40/[DBG]/Resetting outputs
+2019-03-12_20-45-40/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-41/[DBG]/New output is :d
+2019-03-12_20-45-41/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-41/[DBG]/New output is :d:g
+2019-03-12_20-45-41/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 36 as 1
+2019-03-12_20-45-41/[DBG]/New output is :1
+2019-03-12_20-45-41/[DBG]/Parsed note 48 as 8
+2019-03-12_20-45-41/[DBG]/New output is :1:8
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-41/[DBG]/New output is :P
+2019-03-12_20-45-41/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-41/[DBG]/New output is :P:d
+2019-03-12_20-45-41/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-41/[DBG]/New output is :P:d:g
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-41/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-41/[DBG]/New output is :P
+2019-03-12_20-45-41/[DBG]/Parsed note 74 as d
+2019-03-12_20-45-41/[DBG]/New output is :P:d
+2019-03-12_20-45-41/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-41/[DBG]/New output is :P:d:g
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-41/[DBG]/New output is :P:d:g:^
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-41/[DBG]/New output is :P
+2019-03-12_20-45-41/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-41/[DBG]/New output is :P:G
+2019-03-12_20-45-41/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 30 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-41/[DBG]/New output is :P:G:$
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 70 as P
+2019-03-12_20-45-41/[DBG]/New output is :P
+2019-03-12_20-45-41/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-41/[DBG]/New output is :P:G
+2019-03-12_20-45-41/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 80 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 80 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-41/[DBG]/New output is :G
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 30 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-41/[DBG]/New output is :$
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-41/[DBG]/New output is :G
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-41/[DBG]/New output is :G
+2019-03-12_20-45-41/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 85 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 30 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-41/[DBG]/New output is :G:$
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 30 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-41/[DBG]/New output is :$
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 30 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-41/[DBG]/New output is :$
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 78 as G
+2019-03-12_20-45-41/[DBG]/New output is :G
+2019-03-12_20-45-41/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 85 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 30 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 42 as $
+2019-03-12_20-45-41/[DBG]/New output is :$
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-41/[DBG]/New output is :4
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 81 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 84 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-41/[DBG]/New output is :4
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 93 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 96 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-41/[DBG]/New output is :4
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 89 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 93 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 96 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 97 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 97 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 96 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 29 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 41 as 4
+2019-03-12_20-45-41/[DBG]/New output is :4
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 96 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-41/[DBG]/New output is :g
+2019-03-12_20-45-41/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-41/[DBG]/New output is :g:^
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[DBG]/Parsed note 77 as g
+2019-03-12_20-45-41/[DBG]/New output is :g
+2019-03-12_20-45-41/[WRN]/Skipped note with value 82 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[DBG]/Parsed note 46 as ^
+2019-03-12_20-45-41/[DBG]/New output is :g:^
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-41/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-41/[DBG]/Resetting outputs
+2019-03-12_20-45-41/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-42/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-42/[DBG]/Resetting outputs
+2019-03-12_20-45-42/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-42/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-42/[DBG]/Resetting outputs
+2019-03-12_20-45-42/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-42/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-42/[DBG]/Resetting outputs
+2019-03-12_20-45-42/[WRN]/Skipped note with value 34 because it was out of range
+2019-03-12_20-45-42/[WRN]/Skipped note with value 22 because it was out of range
+2019-03-12_20-45-42/[DBG]/Resetting outputs
+2019-03-12_20-45-42/[SCS]/Finished parsing track.
+2019-03-12_20-45-42/[WRN]/186 notes out of range.
+2019-03-12_20-45-42/[DBG]/Object is {0.7114583333333333: ':P', 0: ':g:^', 0.03854166666666667: ':E', 0.11770833333333333: ':E', 0.007291666666666667: ':i', 0.4739583333333333: ':g', 0.026041666666666668: ':P', 0.15729166666666666: ':P', 0.009375: ':g', 0.14895833333333333: ':P', 0.008333333333333333: ':G', 0.140625: ':"', 0.016666666666666666: ':G', 0.078125: ':P', 0.005208333333333333: ':P', 0.0010416666666666667: ':Y', 0.0020833333333333333: ':f', 0.003125: ':g', 0.07395833333333333: ':4', 0.004166666666666667: ':i', 0.44895833333333335: ':d', 0.025: ':1', 0.23645833333333333: ':s', 0.013541666666666667: ':o', 0.09895833333333333: ':4', 0.01875: ':i', 0.11145833333333333: ':1', 0.21145833333333333: ':E', 0.22395833333333334: ':G', 0.0125: ':E', 0.35520833333333335: ':o', 0.019791666666666666: ':i', 0.00625: ':P', 0.11562499999999999: ':p'}
+2019-03-12_20-45-42/[INF]/Please switch to virtualpiano window now.
+2019-03-12_20-45-45/[INF]/Starting playback...
+2019-03-12_20-45-45/[DBG]/Beginning playback of tick 0.7114583333333333
+2019-03-12_20-45-45/[DBG]/Pressing 
+2019-03-12_20-45-45/[DBG]/Beginning playback of tick 0
+2019-03-12_20-45-45/[DBG]/Pressing 
+2019-03-12_20-45-46/[DBG]/Beginning playback of tick 0.03854166666666667
+2019-03-12_20-45-46/[DBG]/Pressing 
+2019-03-12_20-45-46/[DBG]/Beginning playback of tick 0.11770833333333333
+2019-03-12_20-45-46/[DBG]/Pressing 
+2019-03-12_20-45-46/[DBG]/Beginning playback of tick 0.007291666666666667
+2019-03-12_20-45-46/[DBG]/Pressing 
+2019-03-12_20-45-47/[DBG]/Beginning playback of tick 0.4739583333333333
+2019-03-12_20-45-47/[DBG]/Pressing 
+2019-03-12_20-45-47/[DBG]/Beginning playback of tick 0.026041666666666668
+2019-03-12_20-45-47/[DBG]/Pressing 
+2019-03-12_20-45-47/[DBG]/Beginning playback of tick 0.15729166666666666
+2019-03-12_20-45-47/[DBG]/Pressing 
+2019-03-12_20-45-47/[DBG]/Beginning playback of tick 0.009375
+2019-03-12_20-45-47/[DBG]/Pressing 
+2019-03-12_20-45-47/[DBG]/Beginning playback of tick 0.14895833333333333
+2019-03-12_20-45-47/[DBG]/Pressing 
+2019-03-12_20-45-47/[DBG]/Beginning playback of tick 0.008333333333333333
+2019-03-12_20-45-47/[DBG]/Pressing 
+2019-03-12_20-45-48/[DBG]/Beginning playback of tick 0.140625
+2019-03-12_20-45-48/[DBG]/Pressing 
+2019-03-12_20-45-48/[DBG]/Beginning playback of tick 0.016666666666666666
+2019-03-12_20-45-48/[DBG]/Pressing 
+2019-03-12_20-45-48/[DBG]/Beginning playback of tick 0.078125
+2019-03-12_20-45-48/[DBG]/Pressing 
+2019-03-12_20-45-48/[DBG]/Beginning playback of tick 0.005208333333333333
+2019-03-12_20-45-48/[DBG]/Pressing 
+2019-03-12_20-45-48/[DBG]/Beginning playback of tick 0.0010416666666666667
+2019-03-12_20-45-48/[DBG]/Pressing 
+2019-03-12_20-45-48/[DBG]/Beginning playback of tick 0.0020833333333333333
+2019-03-12_20-45-48/[DBG]/Pressing 
+2019-03-12_20-45-49/[DBG]/Beginning playback of tick 0.003125
+2019-03-12_20-45-49/[DBG]/Pressing 
+2019-03-12_20-45-49/[DBG]/Beginning playback of tick 0.07395833333333333
+2019-03-12_20-45-49/[DBG]/Pressing 
+2019-03-12_20-45-49/[DBG]/Beginning playback of tick 0.004166666666666667
+2019-03-12_20-45-49/[DBG]/Pressing 
+2019-03-12_20-45-49/[DBG]/Beginning playback of tick 0.44895833333333335
+2019-03-12_20-45-49/[DBG]/Pressing 
+2019-03-12_20-45-50/[DBG]/Beginning playback of tick 0.025
+2019-03-12_20-45-50/[DBG]/Pressing 
+2019-03-12_20-45-50/[DBG]/Beginning playback of tick 0.23645833333333333
+2019-03-12_20-45-50/[DBG]/Pressing 
+2019-03-12_20-45-50/[DBG]/Beginning playback of tick 0.013541666666666667
+2019-03-12_20-45-50/[DBG]/Pressing 
+2019-03-12_20-45-50/[DBG]/Beginning playback of tick 0.09895833333333333
+2019-03-12_20-45-50/[DBG]/Pressing 
+2019-03-12_20-45-50/[DBG]/Beginning playback of tick 0.01875
+2019-03-12_20-45-50/[DBG]/Pressing 
+2019-03-12_20-45-51/[DBG]/Beginning playback of tick 0.11145833333333333
+2019-03-12_20-45-51/[DBG]/Pressing 
+2019-03-12_20-45-51/[DBG]/Beginning playback of tick 0.21145833333333333
+2019-03-12_20-45-51/[DBG]/Pressing 
+2019-03-12_20-45-51/[DBG]/Beginning playback of tick 0.22395833333333334
+2019-03-12_20-45-51/[DBG]/Pressing 
+2019-03-12_20-45-51/[DBG]/Beginning playback of tick 0.0125
+2019-03-12_20-45-51/[DBG]/Pressing 
+2019-03-12_20-45-52/[DBG]/Beginning playback of tick 0.35520833333333335
+2019-03-12_20-45-52/[DBG]/Pressing 
+2019-03-12_20-45-52/[DBG]/Beginning playback of tick 0.019791666666666666
+2019-03-12_20-45-52/[DBG]/Pressing 
+2019-03-12_20-45-52/[DBG]/Beginning playback of tick 0.00625
+2019-03-12_20-45-52/[DBG]/Pressing 
+2019-03-12_20-45-52/[DBG]/Beginning playback of tick 0.11562499999999999
+2019-03-12_20-45-52/[DBG]/Pressing 

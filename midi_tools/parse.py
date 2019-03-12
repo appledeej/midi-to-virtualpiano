@@ -2,7 +2,7 @@ import mido
 import time
 import log
 import pyautogui
-from threading import Timer
+from threading import Thread
 
 midi_defenitions = {
     36: '1',
@@ -52,20 +52,20 @@ midi_defenitions = {
 
 def play_midi_file(obj):
     #todo more efficient playing
-    log.info("Setting timers...")
-    timers = []
-    for note_group in obj:
-        log.debug("Setting trigger for event(s) " + str(note_group))
-        for note in obj[note_group][1:]:
-            log.debug("Setting timer for note " + note + " at tick " + str(note_group))
-            timers.append(Timer(note_group, pyautogui.press, (note)))
-    log.debug("Timers is " + str(timers))
-    log.info("Finished creating timers. Please switch to virtualpiano window now.")
+    last_interval = 0
+    log.info("Please switch to virtualpiano window now.")
     time.sleep(3)
-    log.info("Starting timers...")
-    for i in timers:
-        log.debug("Starting timer " + str(i))
-        i.start()
+    log.info("Starting playback...")
+    for note_group in obj:
+        time.sleep(note_group - last_interval)
+        log.debug("Beginning playback of tick " + str(note_group))
+        notes = obj[note_group]
+        for i in notes.split(":")[1:]:
+            log.debug("Getting ready to press " + i)
+            t = Thread(target=pyautogui.press, args=(i,))
+            t.start()
+        last_interval = note_group
+
 
 def parse_midi_file(path):
     output = {}
@@ -93,7 +93,7 @@ def parse_midi_file(path):
                 log.debug("New output is " + str(output_new))
                 output[ticks] = output_new
             except Exception as e:
-                log.debug("Skipping over a message because there was no note value e/" + str(e))
+                log.debug("Skipping over a message because there was no note value /e/" + str(e))
     log.success("Finished parsing track.")
     log.warning(str(invalid_notes) + " notes out of range.")
     log.debug("Object is " + str(output))
