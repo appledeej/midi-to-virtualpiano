@@ -55,7 +55,7 @@ def play_midi_file(obj):
     last_interval = 0
     log.info("Please switch to virtualpiano window now.")
     time.sleep(3)
-    log.info("Starting playback...")
+    log.info("Starting playback, hit Ctrl-C to exit")
     for note_group in obj:
         time.sleep(note_group - last_interval)
         log.debug("Beginning playback of tick " + str(note_group))
@@ -65,6 +65,7 @@ def play_midi_file(obj):
             t = Thread(target=pyautogui.press, args=(i,))
             t.start()
         last_interval = note_group
+    log.success("Finished playback!")
 
 
 def parse_midi_file(path):

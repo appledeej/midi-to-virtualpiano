@@ -1,1 +1,1 @@
-show_debug_msgs = True
+show_debug_msgs = False
