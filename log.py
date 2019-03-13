@@ -37,3 +37,7 @@ def debug(message):
     if config.show_debug_msgs:
         print("[D] " + message)
     write_to_log("[DBG]/" + message)
+    
+def rollbar(message):
+    rollbar.report_message(message, category)
+    write_to_log("[RBR]/" + message)
