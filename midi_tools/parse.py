@@ -74,7 +74,7 @@ def play_midi_file(obj):
     log.info("Please switch to virtualpiano window now.")
     time.sleep(3)
     log.info("Starting playback, hit Ctrl-C to exit")
-    log.roll("Object is " + obj, "debug")
+    log.roll("Object is " + str(obj), "debug")
     for note_group in obj:
         time.sleep(note_group - last_interval)
         log.debug("Beginning playback of tick " + str(note_group))
