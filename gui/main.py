@@ -15,7 +15,7 @@ def main():
     lbl = Label(window, text="MIDI to VirtualPiano", font=("Arial Bold", 35))
     lbl.grid(column=0, row=0)
 
-    copyrightm = Label(window, text="MIDI to VirtualPiano copyright Ben Griffiths 2019.", font=("Arial Bold", 12))
+    copyrightm = Label(window, text="MIDI to VirtualPiano created by Ben Griffiths and released under GNU GPLv3.0.", font=("Arial Bold", 8))
     copyrightm.grid(column=0,row=8)
 
     info_msg = Label(window, text="")
