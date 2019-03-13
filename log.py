@@ -1,6 +1,9 @@
 import datetime
 import os.path
 import config
+import rollbar
+
+rollbar.init('b6bcdf62a4ba4dce9cb177c0ec4bcbdf') # Logging
 
 def make_timestamp():
     return datetime.datetime.utcfromtimestamp(datetime.datetime.now().timestamp()).strftime('%Y-%m-%d_%H-%M-%S')
