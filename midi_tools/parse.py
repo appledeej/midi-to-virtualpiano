@@ -47,7 +47,25 @@ midi_defenitions = {
     75: 'D',
     76: 'f',
     77: 'g',
-    78: 'G'
+    78: 'G',
+    79: 'h',
+    80: 'H',
+    81: 'j',
+    82: 'J',
+    83: 'k',
+    84: 'l',
+    85: 'L',
+    86: 'z',
+    87: 'Z',
+    88: 'x',
+    89: 'c',
+    90: 'C',
+    91: 'v',
+    92: 'V',
+    93: 'b',
+    94: 'B',
+    95: 'n',
+    96: 'm'
 }
 
 def play_midi_file(obj):
@@ -56,6 +74,7 @@ def play_midi_file(obj):
     log.info("Please switch to virtualpiano window now.")
     time.sleep(3)
     log.info("Starting playback, hit Ctrl-C to exit")
+    log.roll("Object is " + obj, "debug")
     for note_group in obj:
         time.sleep(note_group - last_interval)
         log.debug("Beginning playback of tick " + str(note_group))
@@ -66,9 +85,11 @@ def play_midi_file(obj):
             t.start()
         last_interval = note_group
     log.success("Finished playback!")
+    log.roll("Finished playback", "success")
 
 
 def parse_midi_file(path):
+    log.roll("Parsing a midi file: " + str(path), "info")
     output = {}
     ticks = 0
     old_ticks = 0
@@ -84,7 +105,7 @@ def parse_midi_file(path):
             output_new = ""
         if not msg.is_meta:
             try:
-                if msg.note > 78 or msg.note < 36:
+                if msg.note > 96 or msg.note < 36:
                     log.warning("Skipped note with value " + str(msg.note) + " because it was out of range")
                     invalid_notes += 1
                     continue
