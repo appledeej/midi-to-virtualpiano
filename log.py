@@ -38,6 +38,6 @@ def debug(message):
         print("[D] " + message)
     write_to_log("[DBG]/" + message)
     
-def rollbar(message):
+def rollbar(message, category):
     rollbar.report_message(message, category)
     write_to_log("[RBR]/" + message)
