@@ -88,6 +88,9 @@ def parse_midi_file(path):
                     log.warning("Skipped note with value " + str(msg.note) + " because it was out of range")
                     invalid_notes += 1
                     continue
+                if msg.velocity == 0:
+                    log.debug("Skipped note_on with velocity 0")
+                    continue
                 key_to_press = midi_defenitions[int(msg.note)]
                 log.debug("Parsed note " + str(msg.note) + " as " + key_to_press)
                 output_new = output_new + ":" + key_to_press
