@@ -17,3 +17,8 @@ This program has various dependencies, which you can read in requirements.txt, h
  - [rollbar](https://github.com/rollbar/pyrollbar) by rollbar
  - [tkinter](https://github.com/python/cpython/tree/master/Lib/tkinter) by python
  - [time](https://github.com/python/cpython/blob/master/Modules/timemodule.c) by python
+
+## Troubleshooting
+ - Run Program as admin
+ - Run in a virtual machine to ensure that no antivirus interferes
+ - Ensure drivers / pyautogui is installed correctly
