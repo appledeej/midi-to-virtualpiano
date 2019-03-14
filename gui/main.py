@@ -51,7 +51,7 @@ def main():
     def promptFileOpen():
         global file
         setMsg("User choosing file.")
-        name = askopenfilename(filetypes =(("MIDI File", ["*.mid", "*.midi"]),("I'm hard and I know what I'm doing don't restrict me to MIDI files bitch","*.*")),
+        name = askopenfilename(filetypes =(("MIDI File", ["*.mid", "*.midi"]),("All Filetypes","*.*")),
                             title = "Choose a MIDI file."
                             )
         if len(name) > 1:
